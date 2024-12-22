@@ -1,12 +1,11 @@
 <img src="./media/image1.png"
 style="width:6.19167in;height:2.39167in" />
 
-**Level-up CSP Technical Training – Autonomous Agent Facilitator
-Guide  **
+## Level-up CSP Technical Training – Autonomous Agent Facilitator Guide
 
-Designing a Smart Autonomous Agent for Recruitment Workflows
+### Designing a Smart Autonomous Agent for Recruitment Workflows
 
-Lab Guide for Interview Scheduler Scenario
+### Lab Guide for Interview Scheduler Scenario
 
 | Description | Contoso Solutions seeks to automate its HR recruitment process by implementing an Autonomous Copilot Agent. This solution will analyse candidate applications, compare them with job requirements, and shortlist qualified candidates. The agent will save shortlisted candidate details in Dataverse and automatically send interview invitations, including date, time, and location. By automating these tasks, the solution aims to reduce manual effort, minimize errors, and enable the HR team to focus on strategic initiatives. |
 |----|----|
