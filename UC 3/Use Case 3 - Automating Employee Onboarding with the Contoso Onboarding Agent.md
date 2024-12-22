@@ -1,12 +1,11 @@
 <img src="./media/image1.png"
 style="width:6.19167in;height:2.39167in" />
 
-**Level-up CSP Technical Training – Autonomous Agent Facilitator
-Guide  **
+## Level-up CSP Technical Training – Autonomous Agent Facilitator Guide
 
-Automating Employee Onboarding with the Contoso Onboarding Agent
+### Automating Employee Onboarding with the Contoso Onboarding Agent
 
-Lab Guide for Onboarding Employee Scenario
+### Lab Guide for Onboarding Employee Scenario
 
 | Description | Contoso Solutions aims to automate its employee onboarding process with the Contoso Onboarding Agent. This solution streamlines the process by automating tasks such as collecting new hire information, creating employee accounts, and scheduling orientation. New employees submit an onboarding form, and the agent extracts the data, creates accounts, and sends an automated email with essential details. HR Manager Miriam benefits by reducing manual work, allowing her to focus on strategic tasks. New employee Jane enjoys a smooth, efficient onboarding experience with all necessary information delivered automatically. |
 |----|----|
